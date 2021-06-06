@@ -1,5 +1,4 @@
 import cv2
-import pixellib
 from pixellib.tune_bg import alter_bg
 
 
